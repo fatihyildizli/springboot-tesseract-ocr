@@ -10,7 +10,7 @@ Request **(Form-data)** :
  
  **Image:** Select postman UI file type
 
-![Alt](/wiki/sampleRequest.PNG "Sample")
+![Alt](/src/main/resources/sampleResponse.PNG "Sample")
 
 **Tesseract Supported Language**
 This project supports only english and turkish language. If you want different language, You must download traineddata from below list. 
