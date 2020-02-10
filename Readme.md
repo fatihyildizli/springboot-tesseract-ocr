@@ -1,7 +1,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/fatihyildizli/springboot-tesseract-ocr.svg)](https://github.com/fatihyildizli/springboot-tesseract-ocr/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/fatihyildizli/springboot-tesseract-ocr.svg)](https://github.com/fatihyildizli/springboot-tesseract-ocr/network/members)
 [![Total Downloads](https://img.shields.io/packagist/dt/fatihyildizli/springboot-tesseract-ocr.svg?style=flat-square)](https://packagist.org/packages/fatihyildizli/springboot-tesseract-ocr)
-[![License](https://poser.pugx.org/fatihyildizli/springboot-tesseract-ocr/license.svg)](https://packagist.org/packages/fatihyildizli/springboot-tesseract-ocr)
+![License](https://img.shields.io/github/license/fatihyildizli/springboot-tesseract-ocr)
 
 #### Brief:
 This project (POC) consists of how to implement Tesseract OCR engine in Spring boot.
