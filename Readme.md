@@ -10,6 +10,8 @@
 #### Brief:
 This project (POC) consists of how to implement Tesseract OCR engine in Spring boot.
 
+Medium Link: https://medium.com/@fatih_yildizli/tesseract-ocr-implementation-in-net-core-spring-boot-6f876a5d4ae5
+
 #### API Endpoint: localhost:1907/api/ocr
 
 #### Example Usage 
